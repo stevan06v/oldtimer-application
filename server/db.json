@@ -1,0 +1,46 @@
+{
+  "oldtimers": [
+    {
+      "name": "Bugatti",
+      "model": "Topolino",
+      "year": 1925,
+      "id": "66e7"
+    },
+    {
+      "name": "Citron",
+      "model": "Topolino",
+      "year": 1922,
+      "id": "682b"
+    },
+    {
+      "name": "Fiat",
+      "model": "Topolino",
+      "year": 1947,
+      "id": "9520"
+    },
+    {
+      "name": "Ford",
+      "model": "Eitel",
+      "year": 1937,
+      "id": "1a18"
+    },
+    {
+      "name": "Peugeot",
+      "model": "205",
+      "year": 1984,
+      "id": "a956"
+    },
+    {
+      "name": "Porsche",
+      "model": "FI",
+      "year": 1962,
+      "id": "c4ae"
+    },
+    {
+      "name": "Rolls Royce",
+      "model": "Phantom",
+      "year": 1936,
+      "id": "c322"
+    }
+  ]
+}
