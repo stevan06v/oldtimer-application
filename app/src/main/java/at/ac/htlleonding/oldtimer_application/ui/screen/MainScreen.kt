@@ -24,13 +24,6 @@ fun MainScreen(
                onNavigateMore = {navController.navigate("about")}
            )
         }
-        composable("list_oldtimers"){
-            OldTimerList(
-                viewModel = viewModel,
-                onNavigateCreate = {navController.navigate("create_oldtimer")},
-                onNavigateMore = {navController.navigate("about")}
-            )
-        }
         composable("about"){
             AboutScreen(
                 onNavigateExit = {navController.navigate("list_oldtimers")},
